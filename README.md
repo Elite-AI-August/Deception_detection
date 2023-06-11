@@ -23,10 +23,6 @@ Our deception detection system comprises four parts：
 ### Install Packages
 Please see the ```requirements.txt``` for more details.
 
-## Pre-trained models
-- Please download the pre-trained models before you run the code
-<https://drive.google.com/drive/folders/1izJQF5bcbqNdDpYAdFvLCG0qJnHlicAg?usp=sharing>
-
 ## Dataset
 ### Real-life trial dataset:
 121 videos including 61 deceptive videos and 60 truth videos [related paper](https://web.eecs.umich.edu/~zmohamed/PDFs/Trial.ICMI.pdf)
